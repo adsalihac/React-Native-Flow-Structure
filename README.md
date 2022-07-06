@@ -12,4 +12,9 @@ Run Flow
 yarn run flow
 
 Flow setup in VSCcode
+
 https://flow.org/en/docs/editors/vscode/
+
+Install this VsCode Extension
+
+https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode
