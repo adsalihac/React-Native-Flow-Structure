@@ -10,3 +10,6 @@ yarn add --dev flow-bin
 Run Flow 
 
 yarn run flow
+
+Flow setup in VSCcode
+https://flow.org/en/docs/editors/vscode/
